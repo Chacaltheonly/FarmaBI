@@ -1,0 +1,5 @@
+{
+  "name": "FarmaBI Pro - Gestão Gratuita de Performance",
+  "description": "Sistema de BI para farmácias utilizando Google Sheets e Looker Studio, com projeções inteligentes e ranking de comissões de campanha.",
+  "requestFramePermissions": []
+}
